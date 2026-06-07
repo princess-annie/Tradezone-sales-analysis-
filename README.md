@@ -1,6 +1,5 @@
 ## TradeZone Sales Performance & Strategic Growth Analysis
 
----
 ## Project Overview
 This project delivers a data-driven diagnostic of TradeZone's sales operations between 2023 and 2024. 
 Using PostgreSQL, the analysis investigates seller performance concentration, regional payment behaviour, and the relationship between product ratings
