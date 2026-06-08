@@ -25,4 +25,4 @@ The core question: Where is revenue actually coming from, and what is at risk if
 8. Top Seller Bonus Qualification
 
 ## Detailed Analysis & Recommendations
-For in-depth analysis and business recommendations,[Read the full article on Medium]()
+For in-depth analysis and business recommendations,[Read the full article on Medium](https://princessjames563.medium.com/when-i-was-handed-the-tradezone-dataset-the-brief-seemed-straightforward-analyze-sales-2cce775f9de6)
